@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">뮤직 요정</string>
+    <string name="app_name_with_index">Page (%1$d/%2$d)</string>
+    <string name="previous">이전</string>
+    <string name="play">재생</string>
+    <string name="next">다음</string>
+    <string name="intro_message">This sample demonstrates how to use PdfRenderer to display PDF documents on the screen</string>
+</resources>
